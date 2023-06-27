@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: bf56dc46-8b0c-4dbe-853a-168ba421a0cc
+      url: 'https://nicholasgrant97.quarto.pub/median-age'
