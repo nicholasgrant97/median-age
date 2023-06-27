@@ -1,6 +1,8 @@
 ---
 title: "Median Age"
 editor: source
+echo: false
+warning: false
 ---
 
 ```{r}
